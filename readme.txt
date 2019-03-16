@@ -2,7 +2,7 @@ Tools Repository
 
 -----------------------------
 
-IBAN4Net
+IBAN4Net - library for validation of International Bank Account Numbers (IBAN) 
  
 Jose Novais, 2017
  
